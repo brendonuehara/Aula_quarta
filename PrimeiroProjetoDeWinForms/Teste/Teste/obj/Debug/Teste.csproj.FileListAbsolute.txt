@@ -1,0 +1,11 @@
+C:\Users\Kayn\Documents\Aula_quarta\PrimeiroProjetoDeWinForms\Teste\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\Kayn\Documents\Aula_quarta\PrimeiroProjetoDeWinForms\Teste\Teste\obj\Debug\Teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kayn\Documents\Aula_quarta\PrimeiroProjetoDeWinForms\Teste\Teste\obj\Debug\Teste.MeuPrimeiroForm.resources
+C:\Users\Kayn\Documents\Aula_quarta\PrimeiroProjetoDeWinForms\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\Kayn\Documents\Aula_quarta\PrimeiroProjetoDeWinForms\Teste\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Users\Kayn\Documents\Aula_quarta\PrimeiroProjetoDeWinForms\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Kayn\Documents\Aula_quarta\PrimeiroProjetoDeWinForms\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\Kayn\Documents\Aula_quarta\PrimeiroProjetoDeWinForms\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\Kayn\Documents\Aula_quarta\PrimeiroProjetoDeWinForms\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\Kayn\Documents\Aula_quarta\PrimeiroProjetoDeWinForms\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\Kayn\Documents\Aula_quarta\PrimeiroProjetoDeWinForms\Teste\Teste\obj\Debug\Teste.pdb
