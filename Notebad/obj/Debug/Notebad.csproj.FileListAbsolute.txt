@@ -1,0 +1,11 @@
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Notebad\bin\Debug\Notebad.exe.config
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Notebad\bin\Debug\Notebad.exe
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Notebad\bin\Debug\Notebad.pdb
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Notebad\obj\Debug\Notebad.csproj.AssemblyReference.cache
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Notebad\obj\Debug\Notebad.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Notebad\obj\Debug\Notebad.Form1.resources
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Notebad\obj\Debug\Notebad.Properties.Resources.resources
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Notebad\obj\Debug\Notebad.csproj.GenerateResource.cache
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Notebad\obj\Debug\Notebad.csproj.CoreCompileInputs.cache
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Notebad\obj\Debug\Notebad.exe
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Notebad\obj\Debug\Notebad.pdb

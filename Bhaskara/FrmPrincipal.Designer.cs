@@ -33,7 +33,7 @@
             this.lbx = new System.Windows.Forms.Label();
             this.lbzero = new System.Windows.Forms.Label();
             this.txtA = new System.Windows.Forms.TextBox();
-            this.txt3 = new System.Windows.Forms.TextBox();
+            this.txtC = new System.Windows.Forms.TextBox();
             this.txtB = new System.Windows.Forms.TextBox();
             this.lbinfo = new System.Windows.Forms.Label();
             this.btCalcular = new System.Windows.Forms.Button();
@@ -83,13 +83,13 @@
             this.txtA.Size = new System.Drawing.Size(46, 26);
             this.txtA.TabIndex = 3;
             // 
-            // txt3
+            // txtC
             // 
-            this.txt3.Location = new System.Drawing.Point(210, 71);
-            this.txt3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.txt3.Name = "txt3";
-            this.txt3.Size = new System.Drawing.Size(46, 26);
-            this.txt3.TabIndex = 4;
+            this.txtC.Location = new System.Drawing.Point(210, 71);
+            this.txtC.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.txtC.Name = "txtC";
+            this.txtC.Size = new System.Drawing.Size(46, 26);
+            this.txtC.TabIndex = 4;
             // 
             // txtB
             // 
@@ -117,46 +117,47 @@
             this.btCalcular.TabIndex = 7;
             this.btCalcular.Text = "Calcular";
             this.btCalcular.UseVisualStyleBackColor = false;
+            this.btCalcular.Click += new System.EventHandler(this.btCalcular_Click);
             // 
             // lbDelta
             // 
             this.lbDelta.AutoSize = true;
             this.lbDelta.Location = new System.Drawing.Point(32, 211);
             this.lbDelta.Name = "lbDelta";
-            this.lbDelta.Size = new System.Drawing.Size(51, 20);
+            this.lbDelta.Size = new System.Drawing.Size(61, 20);
             this.lbDelta.TabIndex = 8;
-            this.lbDelta.Text = "label1";
+            this.lbDelta.Text = "DELTA";
             // 
             // lbXP
             // 
             this.lbXP.AutoSize = true;
             this.lbXP.Location = new System.Drawing.Point(32, 249);
             this.lbXP.Name = "lbXP";
-            this.lbXP.Size = new System.Drawing.Size(51, 20);
+            this.lbXP.Size = new System.Drawing.Size(25, 20);
             this.lbXP.TabIndex = 9;
-            this.lbXP.Text = "label2";
+            this.lbXP.Text = "X¹";
             // 
             // lbXN
             // 
             this.lbXN.AutoSize = true;
             this.lbXN.Location = new System.Drawing.Point(32, 290);
             this.lbXN.Name = "lbXN";
-            this.lbXN.Size = new System.Drawing.Size(51, 20);
+            this.lbXN.Size = new System.Drawing.Size(25, 20);
             this.lbXN.TabIndex = 10;
-            this.lbXN.Text = "label3";
+            this.lbXN.Text = "X²";
             // 
             // FrmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1200, 692);
+            this.ClientSize = new System.Drawing.Size(480, 374);
             this.Controls.Add(this.lbXN);
             this.Controls.Add(this.lbXP);
             this.Controls.Add(this.lbDelta);
             this.Controls.Add(this.btCalcular);
             this.Controls.Add(this.lbinfo);
             this.Controls.Add(this.txtB);
-            this.Controls.Add(this.txt3);
+            this.Controls.Add(this.txtC);
             this.Controls.Add(this.txtA);
             this.Controls.Add(this.lbzero);
             this.Controls.Add(this.lbx);
@@ -178,7 +179,7 @@
         private System.Windows.Forms.Label lbx;
         private System.Windows.Forms.Label lbzero;
         private System.Windows.Forms.TextBox txtA;
-        private System.Windows.Forms.TextBox txt3;
+        private System.Windows.Forms.TextBox txtC;
         private System.Windows.Forms.TextBox txtB;
         private System.Windows.Forms.Label lbinfo;
         private System.Windows.Forms.Button btCalcular;

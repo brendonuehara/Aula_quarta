@@ -1,0 +1,11 @@
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Bhaskara\obj\Debug\Bhaskara.csproj.AssemblyReference.cache
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Bhaskara\obj\Debug\Bhaskara.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Bhaskara\obj\Debug\Bhaskara.FrmPrincipal.resources
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Bhaskara\obj\Debug\Bhaskara.Properties.Resources.resources
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Bhaskara\obj\Debug\Bhaskara.csproj.GenerateResource.cache
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Bhaskara\obj\Debug\Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Bhaskara\bin\Debug\Bhaskara.exe.config
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Bhaskara\bin\Debug\Bhaskara.exe
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Bhaskara\bin\Debug\Bhaskara.pdb
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Bhaskara\obj\Debug\Bhaskara.exe
+C:\Users\kiing\OneDrive\Documentos\aula_quarta\Bhaskara\obj\Debug\Bhaskara.pdb
